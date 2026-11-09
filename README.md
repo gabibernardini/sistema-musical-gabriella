@@ -31,7 +31,7 @@ O projeto contém:
 
 -Cores, fontes e estilos personalizados;
 
---Layout organizado e intuitivo;
+-Layout organizado e intuitivo;
 
 -Elementos visuais que representam uma plataforma musical.
 

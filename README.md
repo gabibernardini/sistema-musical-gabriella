@@ -1,5 +1,3 @@
-# sistema-musical-gabriella
-
 # 🎵 Sistema Musical
 
 # 👤 Aluna

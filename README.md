@@ -4,8 +4,11 @@
 
 # 👤 Aluna
 Nome: Gabriella Bernardini Grenzi Cavadinha
+
 Turma: 1 IG-DS
+
 Disciplina: Desenvolvimento de Sistemas
+
 Professor: Raul/André Luis Denani
 
 # 📌 Sobre o projeto
@@ -21,10 +24,15 @@ O objetivo é desenvolver uma página web que represente um sistema musical, apr
 O projeto contém:
 
 -Título e textos relacionados ao universo musical;
+
 -Imagens temáticas de músicas e artistas;
+
 -Organização visual de conteúdos musicais;
+
 -Cores, fontes e estilos personalizados;
+
 --Layout organizado e intuitivo;
+
 -Elementos visuais que representam uma plataforma musical.
 
 # 🛠️ Ferramentas e Tecnologias utilizadas
@@ -32,7 +40,9 @@ O projeto contém:
 O projeto foi desenvolvido utilizando:
 
 -HTML: Estruturação dos elementos e conteúdos da página;
+
 -CSS: Estilização, cores, fontes, layouts e organização visual;
+
 -VS Code: Editor de código-fonte.
 
 # 📚 Considerações finais
